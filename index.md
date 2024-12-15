@@ -4,3 +4,6 @@
 ```javascript
 const el=yo;
 ```
+- [ ] todo es dios
+- [ ] con dios soy todo
+- [ ] amar a todos
